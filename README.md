@@ -6,6 +6,8 @@ A humble small online shopping website where you can discover your perfect produ
 
 ## Preview
 
+[Live on Vercel](https://shopping-cart-gold-kappa.vercel.app/)
+
 ![Screenshot](./screenshot.png)
 
 ## Feature
